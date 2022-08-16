@@ -1,2 +1,2 @@
 # ConnectX
-For Kaggles CommectX competition
+For Kaggles ConnectX competition

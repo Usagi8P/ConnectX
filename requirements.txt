@@ -1,0 +1,4 @@
+kaggle-enviroments >= 0.1.6
+
+# Required if running through VS Code
+jupyter >= 1.0.0

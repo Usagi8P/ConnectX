@@ -1,0 +1,6 @@
+.venv/
+
+# Go to Kaggle if you want this file
+connectx-getting-started.ipynb
+# the actual submission but you can figure it out ;)
+submission.py
